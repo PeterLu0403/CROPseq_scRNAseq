@@ -16,5 +16,5 @@ The DEGs of each groups were filtered out and combined, together with the log2Fo
 The heatmap displays the log2FoldChange value of each DEGs of each groups compared to the nontargeting groups.
 ![](Figures/relative_expression.png)
 
-The cluster tree displays how the groups are clustered using hierarchchical clustering method. Note: The ward.d2 belongs to agglomerative clustering, which considers each data point as its own cluster and merges them together into larger groups from bottom.
+The cluster tree displays how the groups were clustered using hierarchchical clustering method. Note: The ward.d2 belongs to agglomerative clustering, which considers each data point as its own cluster and merges them together into larger groups from bottom.
 ![](Figures/Clustree_scRNAseq.png)
